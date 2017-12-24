@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "geneticengineering:cotton_swab",
+    "count": 4
+  },
+  "pattern": [
+    "w",
+    "s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "w": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "geneticengineering",
+  "name": "Genetic Engineering",
+  "description": "Create genetically-modified organisms.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["djsrv"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
